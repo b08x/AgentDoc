@@ -1,0 +1,8 @@
+{
+  "name": "AgentDoc Architect",
+  "description": "A high-fidelity documentation generator for Generative AI agents, powered by Gemini 3.1 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
